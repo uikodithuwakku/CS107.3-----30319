@@ -13,48 +13,35 @@ namespace Lab_03
         private double price;
         private int quantityInStock;
 
-        public Product(int productId, string productName, double price, int quantityInStock)
+        public Product(int productId, string productName, double price, int quantityInStock)//constructor
         {
             this.productId = productId;
             this.productName = productName;
             this.price = price;
             this.quantityInStock = quantityInStock;
         }
-
-        public int ProductId => productId; //read only property
         
-        public string ProductName
+        public void AddProduct(int quantity)
         {
-            get => productName;
-            set => productName = value;
-        }
-        public double Price
-        {
-            get => price;
-            set => price = value;
-        }
-        public int QuantityInStock
-        {
-            get => quantityInStock;
-            set => quantityInStock = value;
-        }
-        
-        public void AddProduct()
-        {
-            quantityInStock++;
+            quantityInStock += quantity;
+            Console.WriteLine($"Quantity in stock : {quantityInStock}");
         }
 
-        public void BuyProduct()
+        public void BuyProduct(int quantity)
         {
-            quantityInStock--;
+            if(quantity <= quantityInStock)
+            {
+                quantityInStock -= quantity;
+                Console.WriteLine($"Quantity in stock : {quantityInStock}");
+            }
         }
 
         public void DisplayInfo()
         {
-            Console.WriteLine($"Product Id : {ProductId}");
-            Console.WriteLine($"Product Name : {ProductName}");
-            Console.WriteLine($"Price : ${Price}");
-            Console.WriteLine($"Quantity in stock : {QuantityInStock}");
+            Console.WriteLine($"Product Id : {productId}");
+            Console.WriteLine($"Product Name : {productName}");
+            Console.WriteLine($"Price : ${price}");
+            Console.WriteLine($"Quantity in stock : {quantityInStock}");
         }
 
     }
@@ -67,14 +54,9 @@ namespace Lab_03
             Console.WriteLine("Product Information \n");
             product.DisplayInfo();
 
-            /*product.ProductId = 100;
-              Console.WriteLine($"Updated Product id : {product.ProductId}");
-            */
+        
             // We can't use any external code for modify the product Id.
-            // Because we use read only property for the product Id...
-
-            product.QuantityInStock = 10;
-            Console.WriteLine($"Updated Quantity : {product.QuantityInStock}");
+            // Because product id field is a private field
 
             Console.ReadLine();
         }
