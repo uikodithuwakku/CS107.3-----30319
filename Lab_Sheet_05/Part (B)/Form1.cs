@@ -41,7 +41,10 @@ namespace Lab_05_B_
              {
                  MessageBox.Show("Psswords are doesn't match....", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
              }
-
+             else if(!IsString(txtFname.Text) || !IsString(txtLname.Text))
+            {
+                MessageBox.Show("Enter valid letters....", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
              else
              {
                 Form2 form2 = new Form2();
@@ -51,8 +54,12 @@ namespace Lab_05_B_
                 form2.Show();
                 this.Hide();
              }
-
-            
         }
+
+        private bool IsString(string text)
+        {
+            return text.All(char.IsLetter);
+        }
+
     }
 }
