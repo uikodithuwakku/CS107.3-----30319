@@ -1,0 +1,22 @@
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05(B).csproj.AssemblyReference.cache
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05_B_.Form1.resources
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05_B_.Properties.Resources.resources
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05(B).csproj.GenerateResource.cache
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05(B).csproj.CoreCompileInputs.cache
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\bin\Debug\Lab_05(B).exe.config
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\bin\Debug\Lab_05(B).exe
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\bin\Debug\Lab_05(B).pdb
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05(B).exe
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05(B).pdb
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05_B_.Form2.resources
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\bin\Debug\Lab_05(B).exe.config
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\bin\Debug\Lab_05(B).exe
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\bin\Debug\Lab_05(B).pdb
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05(B).csproj.AssemblyReference.cache
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05_B_.Form1.resources
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05_B_.Form2.resources
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05_B_.Properties.Resources.resources
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05(B).csproj.GenerateResource.cache
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05(B).csproj.CoreCompileInputs.cache
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05(B).exe
+D:\NSBM\Y1 - S3\C# Lab\Lab_05(B)\Lab_05(B)\obj\Debug\Lab_05(B).pdb
