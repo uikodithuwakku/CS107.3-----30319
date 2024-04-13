@@ -1,0 +1,22 @@
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.Q_01.resources
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.Q_03.resources
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.Q_01.resources
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.Q_03.resources
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\NSBM\Y1 - S3\C# Lab\Calculator\Calculator\obj\Debug\Calculator.pdb
