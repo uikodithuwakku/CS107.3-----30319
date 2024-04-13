@@ -1,0 +1,20 @@
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\bin\Debug\Lab_04- Calculator.exe.config
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\bin\Debug\Lab_04- Calculator.exe
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\bin\Debug\Lab_04- Calculator.pdb
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04- Calculator.csproj.AssemblyReference.cache
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04__Calculator.Form1.resources
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04__Calculator.Properties.Resources.resources
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04- Calculator.csproj.GenerateResource.cache
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04- Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04- Calculator.exe
+C:\Users\Laptop Outlet\OneDrive\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04- Calculator.pdb
+D:\NSBM\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\bin\Debug\Lab_04- Calculator.exe.config
+D:\NSBM\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\bin\Debug\Lab_04- Calculator.exe
+D:\NSBM\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\bin\Debug\Lab_04- Calculator.pdb
+D:\NSBM\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04- Calculator.csproj.AssemblyReference.cache
+D:\NSBM\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04__Calculator.Form1.resources
+D:\NSBM\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04__Calculator.Properties.Resources.resources
+D:\NSBM\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04- Calculator.csproj.GenerateResource.cache
+D:\NSBM\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04- Calculator.csproj.CoreCompileInputs.cache
+D:\NSBM\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04- Calculator.exe
+D:\NSBM\Y1 - S3\C# Lab\Lab_04- Calculator\Lab_04- Calculator\obj\Debug\Lab_04- Calculator.pdb
